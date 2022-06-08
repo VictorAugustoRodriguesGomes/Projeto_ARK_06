@@ -3,7 +3,6 @@ package ark06;
 import java.util.Scanner;
 
 public class ARK06 {
-
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         PlayersMetodos playersMetodos = new PlayersMetodos();
