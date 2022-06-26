@@ -2,11 +2,11 @@
 
 # Projeto ARK 06
 
-Os Projetos nomeado ARK são uma aplicação desenvolvidos em java na IDE NetBens. O objetivo é desenvolver um projeto partindo de listas de exercícios encontrados na Internet, seriam projetos mais simples.
+Os projetos nomeados ARK são uma aplicação desenvolvida em Java na IDE NetBeans. O objetivo é desenvolver um projeto partindo de listas de exercícios encontrados na Internet, seriam projetos mais simples.
 
-Ark 6 é um projeto de gerenciamento responsável por gerenciar uma lista de players de um gamer, através do projeto o usuário poderá adicionar um player de rank bronze informando o id e nome do player, adicionar um player informando o id, nome e rank do player, visualizar todos os players da lista e está retirando todos os players da lista. 
+Ark 6 é um projeto de gerenciamento responsável por gerenciar uma lista de players de um gamer, através do projeto o usuário poderá adicionar um player de rank bronze informando o id e nome do player, adicionar um player informando o id, nome e rank do player, visualizar todos os players da lista e está retirando todos os players da lista.
 
-Para desenvolver o projeto optei por utilizar um Switch Case em vez de uma interface gráfica. 
+Para desenvolver o projeto, utilizei um Switch Case em vez de uma interface gráfica.
 
 </br>
 
